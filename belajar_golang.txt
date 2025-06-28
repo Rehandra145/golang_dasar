@@ -1,0 +1,9 @@
+=============
+GOLANG NOTES
+by Rehandra
+=============
+
+=============
+Golang-dasar
+=============
+instalasi projek golang itu menggunakan modul, gunakan perintah `go mod init {nama-project}`
